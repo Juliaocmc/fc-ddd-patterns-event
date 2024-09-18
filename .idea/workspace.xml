@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="943e17dc-6750-49d7-97fe-99f73129ce19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/domain/customer/event/customer-change-address.handle.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/customer/event/customer-created.event.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/customer/event/handler/handle.test.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/customer/event/handler/send-console-log-change-address.handler.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/customer/event/handler/send-console-log-customer-created-1.handler.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/customer/event/handler/send-console-log-customer-created-2.handler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mAiuLLK4NUfaU9X7N5MkxskJcc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Jest.All Tests.executor": "Run",
+    "Jest.Handle CustomerCreatedEvent.executor": "Run",
+    "Jest.Handle CustomerCreatedEvent.should execute SendConsoleLog2Handler.executor": "Run",
+    "Jest.Handle CustomerCreatedEvent.should execute SendConsoleLogChangeAddressHandler (1).executor": "Run",
+    "Jest.Handle CustomerCreatedEvent.should execute SendConsoleLogChangeAddressHandler.executor": "Run",
+    "Jest.Handle CustomerCreatedEvent.should handle CustomerCreatedEvent.executor": "Run",
+    "Jest.Order repository test.executor": "Run",
+    "Jest.Order repository test.should create a new order.executor": "Debug",
+    "Jest.Order repository test.should find all orders.executor": "Run",
+    "Jest.Order repository test.should find an order.executor": "Run",
+    "Jest.Order repository test.should update an order.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "disable.download.node.interpreter.editor.notification": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/julio/Workspace/ddd/fc-ddd-patterns/src/domain/customer/event/handler",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs.jest.jest_package": "/home/julio/Workspace/ddd/fc-ddd-patterns/node_modules/jest",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/domain/customer/event/handler" />
+      <recent name="$PROJECT_DIR$/src/domain/order" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Jest.Handle CustomerCreatedEvent.should execute SendConsoleLogChangeAddressHandler (1)">
+    <configuration name="All Tests" type="JavaScriptTestRunnerJest" nameIsGenerated="true">
+      <node-interpreter value="$USER_HOME$/.asdf/installs/nodejs/22.7.0/bin/node" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Customer factory unit test" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/domain/customer/factory/customer.factory.spec.ts" />
+      <test-names>
+        <test-name value="Customer factory unit test" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Customer factory unit test.should create a customer" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/domain/customer/factory/customer.factory.spec.ts" />
+      <test-names>
+        <test-name value="Customer factory unit test" />
+        <test-name value="should create a customer" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Handle CustomerCreatedEvent" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="$USER_HOME$/.asdf/installs/nodejs/22.7.0/bin/node" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/domain/customer/event/handler/handle.test.spec.ts" />
+      <test-names>
+        <test-name value="Handle CustomerCreatedEvent" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Handle CustomerCreatedEvent.should execute SendConsoleLogChangeAddressHandler (1)" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="$USER_HOME$/.asdf/installs/nodejs/22.7.0/bin/node" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/domain/customer/event/handler/handle.test.spec.ts" />
+      <test-names>
+        <test-name value="Handle CustomerCreatedEvent" />
+        <test-name value="should execute SendConsoleLogChangeAddressHandler" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Handle CustomerCreatedEvent.should execute SendConsoleLogChangeAddressHandler" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="$USER_HOME$/.asdf/installs/nodejs/22.7.0/bin/node" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.All Tests" />
+      <item itemvalue="Jest.Customer factory unit test" />
+      <item itemvalue="Jest.Customer factory unit test.should create a customer" />
+      <item itemvalue="Jest.Handle CustomerCreatedEvent" />
+      <item itemvalue="Jest.Handle CustomerCreatedEvent.should execute SendConsoleLogChangeAddressHandler" />
+      <item itemvalue="Jest.Handle CustomerCreatedEvent.should execute SendConsoleLogChangeAddressHandler (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.Handle CustomerCreatedEvent.should execute SendConsoleLogChangeAddressHandler (1)" />
+        <item itemvalue="Jest.Handle CustomerCreatedEvent.should execute SendConsoleLogChangeAddressHandler" />
+        <item itemvalue="Jest.Handle CustomerCreatedEvent" />
+        <item itemvalue="Jest.Customer factory unit test" />
+        <item itemvalue="Jest.Customer factory unit test.should create a customer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="943e17dc-6750-49d7-97fe-99f73129ce19" name="Changes" comment="" />
+      <created>1726526004270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726526004270</updated>
+      <workItem from="1726526005495" duration="89000" />
+      <workItem from="1726526108377" duration="6319000" />
+      <workItem from="1726613779539" duration="736000" />
+      <workItem from="1726616613533" duration="3657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
