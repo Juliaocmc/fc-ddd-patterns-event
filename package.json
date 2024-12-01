@@ -1,5 +1,5 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "devDependencies": {
     "@swc/cli": "^0.1.55",
     "@swc/core": "^1.2.148",
